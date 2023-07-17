@@ -59,4 +59,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 2. Search Box - simple search box used:
    
-![image](https://github.com/mayuresh25027/searchbox-react-assignment/assets/87094130/d4e52fb5-f297-4cfc-9c60-8f2fa2c99140)
+![image](https://github.com/mayuresh25027/searchbox-react-assignment/assets/87094130/4c7a0ceb-3c25-4ea7-98fa-0b07e2830fd3)
+
