@@ -51,3 +51,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 **`npm install @mui/material @emotion/react @emotion/styled*`**
 
 **`npm install npm list react-router-dom`**
+
+
+1. Login Page - login credientials aren't verified:
+
+![image](https://github.com/mayuresh25027/searchbox-react-assignment/assets/87094130/e0fe8738-c996-4a11-8ee7-b163c74a334f)
+
+2. Search Box - simple search box used:
+   
+![image](https://github.com/mayuresh25027/searchbox-react-assignment/assets/87094130/d4e52fb5-f297-4cfc-9c60-8f2fa2c99140)
